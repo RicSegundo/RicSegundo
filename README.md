@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**RicSegundo/RicSegundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :earth_africa: My Background is Mechanical Engineering: Production Management
+- :computer: I am currently working at [Nispera AG](https://daredata.engineering/home) as a Data Scientist
+- :abacus: I’m studying DS at [LDSSA](https://www.lisbondatascience.org/) and currently learning about model deployment
+- 📫 You can reach me by adding me as a connection on [LinkedIn](https://www.linkedin.com/in/ricardosegundo/)
 
-Here are some ideas to get you started:
+- ⚡ I am passionate about:
+  - :surfer: Data
+  - :airplane: Programming
+  - :books: Reading 
+  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ricardo Segundo's github stats](https://github-readme-stats.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=RicSegundo)](https://github.com/anuraghazra/github-readme-stats)
+
+Checkout some of my work at my [data analysis repo](https://github.com/ecarlosfonseca/Data-Analysis) and stay safe!
