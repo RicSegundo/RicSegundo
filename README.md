@@ -3,7 +3,7 @@
 - :lab_coat::earth_africa: I am a Chemical/Environmental Engineer, and for almost 10 years I did research on how to improve water treatment methods 
 - :wind_face::sunny: I am currently working at [Nispera AG](https://daredata.engineering/home) as a Data Scientist, analysing renewable assets data
 - :open_book: Learning is my biggest passion and what motivates me the most! I am currently completing the Data Engineering Track at [DataCamp](http://www.datacamp.com/) and also trying to improve on my [QlikView/QlikSense](https://www.qlik.com) skills
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ricardosegundo/) 
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ricardosegundo/) - I am always interested on discussing anything regarding Data and ML/Deep Learning.
 
 - I am passionate about:
   - :desktop_computer: Data
