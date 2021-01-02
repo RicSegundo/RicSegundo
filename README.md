@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :lab_coat::earth_africa: I am a Chemical/Environmental Engineer, and for almost 10 years I did research on how to improve water treatment methods
+- :lab_coat::earth_africa: I am a Chemical/Environmental Engineer by trade, and for almost 10 years I did research on how to improve water treatment methods
 
 - I am passionate about:
   - :desktop_computer: Data
