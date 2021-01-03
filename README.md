@@ -19,9 +19,19 @@ Most of the programming I do today is at work so I cannot share the code here, b
 I also publish the solutions to problems I solve at [HackerRank](https://github.com/RicSegundo/HackerRank), so feel free to check if you get stuck in any of them.
 
 
-
+<!--
 ### How have I performed in the recent past?
-
 [![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=RicSegundo)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=RicSegundo&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=RicSegundo&hide=php&theme=tokyonight" />
+</a>
+</div>
