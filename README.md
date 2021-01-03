@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Ricardo](https://ricsegundo.github.io), a Data Scientist currently based on Switzerland.
+### Hi there 👋 I'm [Ricardo](https://ricsegundo.github.io), a Data Scientist currently based in Switzerland.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RicSegundo.RicSegundo) [![Github](https://img.shields.io/github/followers/RicSegundo?label=Followers&logo=Github)](https://github.com/RicSegundo)
 
