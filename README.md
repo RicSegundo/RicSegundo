@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Ricardo](https://ricsegundo.github.io), a Data Scientist currently based in Switzerland.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=RicSegundo.RicSegundo) [![Github](https://img.shields.io/github/followers/RicSegundo?label=Followers&logo=Github)](https://github.com/RicSegundo)
+[![Github](https://visitor-badge.laobi.icu/badge?page_id=RicSegundo.RicSegundo)](https://github.com/RicSegundo) [![Github](https://img.shields.io/github/followers/RicSegundo?label=Followers&logo=Github)](https://github.com/RicSegundo)
 
 - :lab_coat::earth_africa: I am a Chemical/Environmental Engineer by trade, and for almost 10 years I did research on how to improve water treatment methods
 
