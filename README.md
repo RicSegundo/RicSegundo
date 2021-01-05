@@ -2,7 +2,6 @@
 
 [![Github](https://img.shields.io/github/followers/RicSegundo?label=Followers&logo=Github)](https://github.com/RicSegundo) [![Github](https://visitor-badge.laobi.icu/badge?page_id=RicSegundo.RicSegundo)](https://github.com/RicSegundo)
 
-<br />
 
 ## :lab_coat::earth_africa: I am a Chemical/Environmental Engineer by trade
 
