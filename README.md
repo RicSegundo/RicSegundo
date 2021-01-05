@@ -14,7 +14,7 @@
 - :open_book: Learning is my biggest passion and what motivates me the most! I am currently completing the Data Engineering Track at [DataCamp](http://www.datacamp.com/) and also trying to improve on my [QlikView/QlikSense](https://www.qlik.com) skills
 - 📫 You can reach me via the contact form at the end of my [Personal Page](https://ricsegundo.github.io) - I am interested in discussing anything regarding Data and ML/Deep Learning.
 
-## 💻 + 🧠 = 🏆 Current projects I am working on
+## 💻 + 🧠 Current projects I am working on
 
 - Most of the programming I do today is at work so I cannot share the code here, but you can check some of my early work at the [Bootcamp](https://github.com/RicSegundo/DataScienceBootcamp) repository, to find the projects I completed while studying at [Propulsion Academy](https://propulsion.academy)!
 
