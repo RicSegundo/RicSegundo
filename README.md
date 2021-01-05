@@ -2,9 +2,8 @@
 
 [![Github](https://img.shields.io/github/followers/RicSegundo?label=Followers&logo=Github)](https://github.com/RicSegundo) [![Github](https://visitor-badge.laobi.icu/badge?page_id=RicSegundo.RicSegundo)](https://github.com/RicSegundo)
 
-____
 
-:lab_coat::earth_africa: I am a Chemical/Environmental Engineer by trade
+## :lab_coat::earth_africa: I am a Chemical/Environmental Engineer by trade
 
 - For almost 10 years I did research on how to improve water treatment methods
 - I am passionate about:
