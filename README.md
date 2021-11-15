@@ -32,11 +32,13 @@
 
 ## :trophy: My Github Stats:
 
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=radical&hide_rank=false">
+  <img  align="left" src="github-readme-stats.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=RicSegundo&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=RicSegundo&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RicSegundo&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicSegundo&hide=php&theme=tokyonight" />
 </a>
 </div>
