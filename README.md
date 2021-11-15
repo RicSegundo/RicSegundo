@@ -33,8 +33,8 @@
 ## :trophy: My Github Stats:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=radical&hide_rank=false">
-  <img  align="left" src="github-readme-stats.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
+<a href="https://github-readme-stats.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=RicSegundo&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RicSegundo&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicSegundo&hide=php&theme=tokyonight" />
